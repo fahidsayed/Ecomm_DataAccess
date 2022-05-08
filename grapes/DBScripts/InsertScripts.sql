@@ -1,0 +1,12 @@
+INSERT INTO customers VALUES(default,"ANIL","KUMBLE","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"ZAHEER","KHAN","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"SACHIN","TENDULKAR","suresh.kumar@themail.com","+91 9834346463");
+INSERT INTO customers VALUES(default,"VIRAT","KOHLI","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"RAHUL","KL","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"MAYANK","AGARWAL","suresh.kumar@themail.com","+91 9834346463");
+INSERT INTO customers VALUES(default,"SHIKAR","DHAWAN","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"ROHIT","SHARMA","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"JASPRIT","BHUMRA","suresh.kumar@themail.com","+91 9834346463");
+INSERT INTO customers VALUES(default,"MOHAMMED","SHAMI","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"RAVI","ASHWIN","anil.kumble@themail.com","+91 9246886325");
+INSERT INTO customers VALUES(default,"RAVINDRA","JADEJA","anil.kumble@themail.com","+91 9246886325");
